@@ -1,9 +1,24 @@
-.test{
+*{
+    box-sizing: border-box;
+
+}
+body{
+    text-align: center;
+
+}
+.sepi-icon{
+    margin-bottom: 20px;
+}
+.sepi-test{
     border-radius: 10px;
     border: none;
+    margin-bottom: 20px;
     
 }
 .test i{
     vertical-align: -7px;
-
+}
+.sepi-link :hover{
+     color: dodgerblue;
+     background-color: #efefef;
 }
